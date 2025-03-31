@@ -1,0 +1,28 @@
+
+*{
+    font-family:Delius;    
+}
+
+body{
+    background-color: rgb(235, 218, 229);
+}
+div{
+    padding: 5px;
+}
+
+.life{
+    border-radius: 10px;
+    padding-inline: 10px;
+    display: inline;
+    background-color: rgb(195, 233, 210);
+    color: rgb(0, 0, 0);
+}
+
+.container{
+    background-color: antiquewhite;
+    border: 3px solid black;
+    border-top-left-radius: 20px;
+    padding: 25px;
+    margin-right: 50px;
+    box-sizing: border-box;
+}
